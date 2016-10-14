@@ -1,0 +1,30 @@
+@CHARSET "UTF-8";
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    width:70%;
+    margin :0px auto;
+    font-family: cursive;
+    font-weight: bold;
+}
+table{
+	color:maroon;
+	padding-left: 17%;
+	font-weight: bold;
+}
+section{
+text-align: center;
+padding-top: 5.5%;
+background-image: url('resources/images/BookBoo.jpg');
+width:100%;
+border-radius : 25px;
+height:100%;
+}
+img{
+	border-radius : 25px;
+}
+ul{
+	align:"left"
+}
